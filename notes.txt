@@ -1,0 +1,19 @@
+De um ponto de vista genérico, uma banco de dados é nome dado a um grupo de informações, armazenadas conforme critério específico.
+Do ponto de vista de software, pode-se dizer que trata-se do artfeato que aliementa um sistema de informação, que, também conforme critérios específicos, são agrupados e organizados
+de maneira lógica e convenientes para os meios operacioanais (Ou seja, da melhor forma para que sejam melhor utilizados).
+
+usuários: indivíduos que protagonizam o uso de algum processo ou software.
+VM1124:1 esquemas: dentro do contexto do banco de dados, reune critérios e a organização lógica dos conjuntos de dados
+VM1124:1 linguagem de definição de dados: definem os tipos de dados e a forma com que sejam obtidos e armazenados
+VM1124:1 consultar os dados: buscar por uma informação específica para que informe o usuário que o pesquisa ou é utilizado em algum processo como argumento
+VM1124:1 modificar os dados: atualizar os dados conforme conveniencia
+VM1124:1 linguagem de consulta: linguagem que está adaptada ao ambiente onde os dados estão armazenados e que consegue de forma otimizada e lógica, fazer a busca de alguma informação dentro do banco de dados 
+VM1124:1 linguagem de manipulação de dados: linguagem que está adaptada ao ambiente onde os dados estão armazenados e que é capaz de correlacionar e alterar dados conforme solicitação dentro de um processo
+VM1124:1 armazenamento de grande volume de dados: a estrutura com que dados são armazenados, normalmente seguindo um padrão lógico, enumerado ou adaptado a algum algoritmo de busca para otimizar tempo de busca
+VM1124:1 acesso eficiente: norteada pela taxa/probabilidade de acerto, e estruturada por algoritmos que dependem da estrutura de dados que armazena as informações
+VM1124:1 durabilidade
+VM1124:1 recuperação após falhas
+VM1124:1 erros de vários tipos
+VM1124:1 uso indevido intencional
+VM1124:1 interferências inesperadas entre os usuários
+VM1124:1 transações nos dados sejam realizadas parcialmente
