@@ -1,3 +1,4 @@
+#Tópico 2
 De um ponto de vista genérico, uma banco de dados é nome dado a um grupo de informações, armazenadas conforme critério específico.
 Do ponto de vista de software, pode-se dizer que trata-se do artfeato que aliementa um sistema de informação, que, também conforme critérios específicos, são agrupados e organizados
 de maneira lógica e convenientes para os meios operacioanais (Ou seja, da melhor forma para que sejam melhor utilizados).
