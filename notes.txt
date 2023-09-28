@@ -13,7 +13,7 @@ VM1124:1 linguagem de manipulação de dados: linguagem que está adaptada ao am
 VM1124:1 armazenamento de grande volume de dados: a estrutura com que dados são armazenados, normalmente seguindo um padrão lógico, enumerado ou adaptado a algum algoritmo de busca para otimizar tempo de busca
 VM1124:1 acesso eficiente: norteada pela taxa/probabilidade de acerto, e estruturada por algoritmos que dependem da estrutura de dados que armazena as informações
 VM1124:1 durabilidade
-VM1124:1 recuperação após falhas
+VM1124:1 recuperação após falhas: deadlock(banco de dados trava)->após uma situação de conflitos, e a forma pela qual o banco de dados restaura as informações apoś perceber falha em uma transação
 VM1124:1 erros de vários tipos
 VM1124:1 uso indevido intencional
 VM1124:1 interferências inesperadas entre os usuários
